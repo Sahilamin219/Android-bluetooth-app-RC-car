@@ -1,4 +1,4 @@
-# Android-bluetooth-app---RC-car
+# Android-bluetooth-app RC-car
 
 In this project we are going to develop a bluetooth controlled robo car. Here we used a Bluetooth module to control the car, and it is also an android based application.
 Bluetooth controlled car is controlled by using Android mobile phone instead of any other method like buttons, gesture etc. Here only needs to touch button in android phone to control the car in forward, backwardd, left and right directions. So here android phone is used as transmitting device and Bluetooth module placed in car is used as receiver. Android phone will transmit command using its in-built Bluetooth to car so that it can move in the required direction like moving forward, reverse, turning left, turning right and stop.
@@ -33,11 +33,7 @@ The Motor Driver Module is responsible for providing the necessary drive current
 Android App
 
 We have used a simple app called Bluetooth Controller, which is installed on an Android Phone to communicate with the Bluetooth Module.
-
-In this project, we have used the same app with modifications in the data to be transmitted.
-
-Bluetooth Controlled Robot using Arduino Bluetooth Controller App
-
+In this project, we have used this app with modifications in the data to be transmitted.
 Arduino code is written to synchronize with the data configured in the Bluetooth Controller App.
     
 Applications
