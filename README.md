@@ -18,6 +18,7 @@ Components and Supplies
     Jumper Wires
     Adapter
     Battery Holder
+    Servo motor
     Power Supply 
     Android Phone 
     Bluetooth Controller App 
